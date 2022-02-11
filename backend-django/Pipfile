@@ -9,6 +9,6 @@ djangorestframework = "*"
 djangorestframework-yaml = "*"
 drf-spectacular = "*"
 drf-spectacular-sidecar = "*"
+django-fsm = "*"
 
 [dev-packages]
-
